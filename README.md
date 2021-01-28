@@ -1,32 +1,12 @@
-## Welcome to GitHub Pages
+## Event Playlist Mobile APP
 
-You can use the [editor on GitHub](https://github.com/lidijasimoliunaite/Labas/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The main idea of our project is to create mobile app in which costumers will have possibility to create event (public or private) and in event costumers will search and add 
+songs. After that they will have possibility to put likes and the best songs will be in TOP. DJ of the party will know what music people like in this event.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some media
 
-### Markdown
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Hello
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
